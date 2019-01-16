@@ -12,5 +12,14 @@ specific language governing permissions and limitations
 under the License.
 
 This project includes:
-  org.buffalo-coders:parent under Apache License, Version 2.0
+  Apache Commons Logging under The Apache Software License, Version 2.0
+  AWS Lambda Java Core Library under Apache License, Version 2.0
+  JCL 1.2 implemented over SLF4J under MIT License
+  lambda-logging under Apache License, Version 2.0
+  Log4j Implemented Over SLF4J under Apache Software Licenses
+  Logback Classic Module under Eclipse Public License - v 1.0 or GNU Lesser General Public License
+  Logback Core Module under Eclipse Public License - v 1.0 or GNU Lesser General Public License
+  org.buffalo-coders.aws.lambda:parent under Apache License, Version 2.0
+  OSGi LogService implemented over SLF4J under MIT License
+  SLF4J API Module under MIT License
 
