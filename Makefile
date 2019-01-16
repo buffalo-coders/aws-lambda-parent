@@ -1,6 +1,6 @@
 ###
 # #%L
-# org.buffalo-coders:aws-lambda-parent
+# org.buffalo-coders.aws.lambda:parent
 # %%
 # Copyright (C) 2019 Buffalo Coders
 # %%
